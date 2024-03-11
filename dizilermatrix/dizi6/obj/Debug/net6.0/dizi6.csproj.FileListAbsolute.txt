@@ -1,0 +1,14 @@
+C:\Users\Abdul\OneDrive\Masaüstü\1\dizi6\dizi6\bin\Debug\net6.0\dizi6.exe
+C:\Users\Abdul\OneDrive\Masaüstü\1\dizi6\dizi6\bin\Debug\net6.0\dizi6.deps.json
+C:\Users\Abdul\OneDrive\Masaüstü\1\dizi6\dizi6\bin\Debug\net6.0\dizi6.runtimeconfig.json
+C:\Users\Abdul\OneDrive\Masaüstü\1\dizi6\dizi6\bin\Debug\net6.0\dizi6.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\dizi6\dizi6\bin\Debug\net6.0\dizi6.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\1\dizi6\dizi6\obj\Debug\net6.0\dizi6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\OneDrive\Masaüstü\1\dizi6\dizi6\obj\Debug\net6.0\dizi6.AssemblyInfoInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\dizi6\dizi6\obj\Debug\net6.0\dizi6.AssemblyInfo.cs
+C:\Users\Abdul\OneDrive\Masaüstü\1\dizi6\dizi6\obj\Debug\net6.0\dizi6.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\dizi6\dizi6\obj\Debug\net6.0\dizi6.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\dizi6\dizi6\obj\Debug\net6.0\refint\dizi6.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\dizi6\dizi6\obj\Debug\net6.0\dizi6.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\1\dizi6\dizi6\obj\Debug\net6.0\dizi6.genruntimeconfig.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\dizi6\dizi6\obj\Debug\net6.0\ref\dizi6.dll
