@@ -1,0 +1,15 @@
+C:\Users\BILSAM YAZILIM\Desktop\1\3 basamaklı\3 basamaklı\bin\Debug\net7.0\3 basamaklı.exe
+C:\Users\BILSAM YAZILIM\Desktop\1\3 basamaklı\3 basamaklı\bin\Debug\net7.0\3 basamaklı.deps.json
+C:\Users\BILSAM YAZILIM\Desktop\1\3 basamaklı\3 basamaklı\bin\Debug\net7.0\3 basamaklı.runtimeconfig.json
+C:\Users\BILSAM YAZILIM\Desktop\1\3 basamaklı\3 basamaklı\bin\Debug\net7.0\3 basamaklı.dll
+C:\Users\BILSAM YAZILIM\Desktop\1\3 basamaklı\3 basamaklı\bin\Debug\net7.0\3 basamaklı.pdb
+C:\Users\BILSAM YAZILIM\Desktop\1\3 basamaklı\3 basamaklı\obj\Debug\net7.0\3 basamaklı.csproj.AssemblyReference.cache
+C:\Users\BILSAM YAZILIM\Desktop\1\3 basamaklı\3 basamaklı\obj\Debug\net7.0\3 basamaklı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BILSAM YAZILIM\Desktop\1\3 basamaklı\3 basamaklı\obj\Debug\net7.0\3 basamaklı.AssemblyInfoInputs.cache
+C:\Users\BILSAM YAZILIM\Desktop\1\3 basamaklı\3 basamaklı\obj\Debug\net7.0\3 basamaklı.AssemblyInfo.cs
+C:\Users\BILSAM YAZILIM\Desktop\1\3 basamaklı\3 basamaklı\obj\Debug\net7.0\3 basamaklı.csproj.CoreCompileInputs.cache
+C:\Users\BILSAM YAZILIM\Desktop\1\3 basamaklı\3 basamaklı\obj\Debug\net7.0\3 basamaklı.dll
+C:\Users\BILSAM YAZILIM\Desktop\1\3 basamaklı\3 basamaklı\obj\Debug\net7.0\refint\3 basamaklı.dll
+C:\Users\BILSAM YAZILIM\Desktop\1\3 basamaklı\3 basamaklı\obj\Debug\net7.0\3 basamaklı.pdb
+C:\Users\BILSAM YAZILIM\Desktop\1\3 basamaklı\3 basamaklı\obj\Debug\net7.0\3 basamaklı.genruntimeconfig.cache
+C:\Users\BILSAM YAZILIM\Desktop\1\3 basamaklı\3 basamaklı\obj\Debug\net7.0\ref\3 basamaklı.dll
