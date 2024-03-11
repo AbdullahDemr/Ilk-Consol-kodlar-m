@@ -1,0 +1,15 @@
+C:\Users\Abdul\OneDrive\Masaüstü\1\bahsiş\bahsiş\bin\Debug\net6.0\bahsiş.exe
+C:\Users\Abdul\OneDrive\Masaüstü\1\bahsiş\bahsiş\bin\Debug\net6.0\bahsiş.deps.json
+C:\Users\Abdul\OneDrive\Masaüstü\1\bahsiş\bahsiş\bin\Debug\net6.0\bahsiş.runtimeconfig.json
+C:\Users\Abdul\OneDrive\Masaüstü\1\bahsiş\bahsiş\bin\Debug\net6.0\bahsiş.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\bahsiş\bahsiş\bin\Debug\net6.0\bahsiş.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\1\bahsiş\bahsiş\obj\Debug\net6.0\bahsiş.csproj.AssemblyReference.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\bahsiş\bahsiş\obj\Debug\net6.0\bahsiş.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\OneDrive\Masaüstü\1\bahsiş\bahsiş\obj\Debug\net6.0\bahsiş.AssemblyInfoInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\bahsiş\bahsiş\obj\Debug\net6.0\bahsiş.AssemblyInfo.cs
+C:\Users\Abdul\OneDrive\Masaüstü\1\bahsiş\bahsiş\obj\Debug\net6.0\bahsiş.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\bahsiş\bahsiş\obj\Debug\net6.0\bahsiş.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\bahsiş\bahsiş\obj\Debug\net6.0\refint\bahsiş.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\bahsiş\bahsiş\obj\Debug\net6.0\bahsiş.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\1\bahsiş\bahsiş\obj\Debug\net6.0\bahsiş.genruntimeconfig.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\bahsiş\bahsiş\obj\Debug\net6.0\ref\bahsiş.dll
