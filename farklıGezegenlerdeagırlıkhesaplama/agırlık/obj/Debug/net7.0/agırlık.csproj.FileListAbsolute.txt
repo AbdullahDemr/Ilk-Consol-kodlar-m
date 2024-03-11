@@ -1,0 +1,15 @@
+C:\Users\BILSAM YAZILIM\Desktop\1\agırlık\agırlık\bin\Debug\net7.0\agırlık.exe
+C:\Users\BILSAM YAZILIM\Desktop\1\agırlık\agırlık\bin\Debug\net7.0\agırlık.deps.json
+C:\Users\BILSAM YAZILIM\Desktop\1\agırlık\agırlık\bin\Debug\net7.0\agırlık.runtimeconfig.json
+C:\Users\BILSAM YAZILIM\Desktop\1\agırlık\agırlık\bin\Debug\net7.0\agırlık.dll
+C:\Users\BILSAM YAZILIM\Desktop\1\agırlık\agırlık\bin\Debug\net7.0\agırlık.pdb
+C:\Users\BILSAM YAZILIM\Desktop\1\agırlık\agırlık\obj\Debug\net7.0\agırlık.csproj.AssemblyReference.cache
+C:\Users\BILSAM YAZILIM\Desktop\1\agırlık\agırlık\obj\Debug\net7.0\agırlık.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BILSAM YAZILIM\Desktop\1\agırlık\agırlık\obj\Debug\net7.0\agırlık.AssemblyInfoInputs.cache
+C:\Users\BILSAM YAZILIM\Desktop\1\agırlık\agırlık\obj\Debug\net7.0\agırlık.AssemblyInfo.cs
+C:\Users\BILSAM YAZILIM\Desktop\1\agırlık\agırlık\obj\Debug\net7.0\agırlık.csproj.CoreCompileInputs.cache
+C:\Users\BILSAM YAZILIM\Desktop\1\agırlık\agırlık\obj\Debug\net7.0\agırlık.dll
+C:\Users\BILSAM YAZILIM\Desktop\1\agırlık\agırlık\obj\Debug\net7.0\refint\agırlık.dll
+C:\Users\BILSAM YAZILIM\Desktop\1\agırlık\agırlık\obj\Debug\net7.0\agırlık.pdb
+C:\Users\BILSAM YAZILIM\Desktop\1\agırlık\agırlık\obj\Debug\net7.0\agırlık.genruntimeconfig.cache
+C:\Users\BILSAM YAZILIM\Desktop\1\agırlık\agırlık\obj\Debug\net7.0\ref\agırlık.dll
