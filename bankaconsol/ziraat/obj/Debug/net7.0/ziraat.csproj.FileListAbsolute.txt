@@ -1,0 +1,29 @@
+C:\Users\BILSAM YAZILIM\Desktop\1\ziraat\ziraat\bin\Debug\net7.0\ziraat.exe
+C:\Users\BILSAM YAZILIM\Desktop\1\ziraat\ziraat\bin\Debug\net7.0\ziraat.deps.json
+C:\Users\BILSAM YAZILIM\Desktop\1\ziraat\ziraat\bin\Debug\net7.0\ziraat.runtimeconfig.json
+C:\Users\BILSAM YAZILIM\Desktop\1\ziraat\ziraat\bin\Debug\net7.0\ziraat.dll
+C:\Users\BILSAM YAZILIM\Desktop\1\ziraat\ziraat\bin\Debug\net7.0\ziraat.pdb
+C:\Users\BILSAM YAZILIM\Desktop\1\ziraat\ziraat\obj\Debug\net7.0\ziraat.csproj.AssemblyReference.cache
+C:\Users\BILSAM YAZILIM\Desktop\1\ziraat\ziraat\obj\Debug\net7.0\ziraat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BILSAM YAZILIM\Desktop\1\ziraat\ziraat\obj\Debug\net7.0\ziraat.AssemblyInfoInputs.cache
+C:\Users\BILSAM YAZILIM\Desktop\1\ziraat\ziraat\obj\Debug\net7.0\ziraat.AssemblyInfo.cs
+C:\Users\BILSAM YAZILIM\Desktop\1\ziraat\ziraat\obj\Debug\net7.0\ziraat.csproj.CoreCompileInputs.cache
+C:\Users\BILSAM YAZILIM\Desktop\1\ziraat\ziraat\obj\Debug\net7.0\ziraat.dll
+C:\Users\BILSAM YAZILIM\Desktop\1\ziraat\ziraat\obj\Debug\net7.0\refint\ziraat.dll
+C:\Users\BILSAM YAZILIM\Desktop\1\ziraat\ziraat\obj\Debug\net7.0\ziraat.pdb
+C:\Users\BILSAM YAZILIM\Desktop\1\ziraat\ziraat\obj\Debug\net7.0\ziraat.genruntimeconfig.cache
+C:\Users\BILSAM YAZILIM\Desktop\1\ziraat\ziraat\obj\Debug\net7.0\ref\ziraat.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\ziraat\ziraat\bin\Debug\net7.0\ziraat.exe
+C:\Users\Abdul\OneDrive\Masaüstü\1\ziraat\ziraat\bin\Debug\net7.0\ziraat.deps.json
+C:\Users\Abdul\OneDrive\Masaüstü\1\ziraat\ziraat\bin\Debug\net7.0\ziraat.runtimeconfig.json
+C:\Users\Abdul\OneDrive\Masaüstü\1\ziraat\ziraat\bin\Debug\net7.0\ziraat.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\ziraat\ziraat\bin\Debug\net7.0\ziraat.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\1\ziraat\ziraat\obj\Debug\net7.0\ziraat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\OneDrive\Masaüstü\1\ziraat\ziraat\obj\Debug\net7.0\ziraat.AssemblyInfoInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\ziraat\ziraat\obj\Debug\net7.0\ziraat.AssemblyInfo.cs
+C:\Users\Abdul\OneDrive\Masaüstü\1\ziraat\ziraat\obj\Debug\net7.0\ziraat.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\ziraat\ziraat\obj\Debug\net7.0\ziraat.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\ziraat\ziraat\obj\Debug\net7.0\refint\ziraat.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\ziraat\ziraat\obj\Debug\net7.0\ziraat.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\1\ziraat\ziraat\obj\Debug\net7.0\ziraat.genruntimeconfig.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\ziraat\ziraat\obj\Debug\net7.0\ref\ziraat.dll
