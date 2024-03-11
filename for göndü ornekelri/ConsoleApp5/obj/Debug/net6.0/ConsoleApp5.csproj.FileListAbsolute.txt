@@ -1,0 +1,45 @@
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.exe
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.deps.json
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.runtimeconfig.json
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\refint\ConsoleApp5.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.genruntimeconfig.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ref\ConsoleApp5.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\for göndü ornekelri\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.exe
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\for göndü ornekelri\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.deps.json
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\for göndü ornekelri\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.runtimeconfig.json
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\for göndü ornekelri\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\for göndü ornekelri\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\refint\ConsoleApp5.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.genruntimeconfig.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\ref\ConsoleApp5.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\for göndü ornekelri\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.exe
+C:\Users\Abdul\OneDrive\Masaüstü\1\for göndü ornekelri\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.deps.json
+C:\Users\Abdul\OneDrive\Masaüstü\1\for göndü ornekelri\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.runtimeconfig.json
+C:\Users\Abdul\OneDrive\Masaüstü\1\for göndü ornekelri\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\for göndü ornekelri\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\1\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\OneDrive\Masaüstü\1\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\Abdul\OneDrive\Masaüstü\1\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\refint\ConsoleApp5.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\1\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.genruntimeconfig.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\for göndü ornekelri\ConsoleApp5\obj\Debug\net6.0\ref\ConsoleApp5.dll
