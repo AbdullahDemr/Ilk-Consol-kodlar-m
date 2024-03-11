@@ -1,0 +1,30 @@
+C:\Users\BILSAM YAZILIM\Desktop\1\annebaba\annebaba\bin\Debug\net7.0\annebaba.exe
+C:\Users\BILSAM YAZILIM\Desktop\1\annebaba\annebaba\bin\Debug\net7.0\annebaba.deps.json
+C:\Users\BILSAM YAZILIM\Desktop\1\annebaba\annebaba\bin\Debug\net7.0\annebaba.runtimeconfig.json
+C:\Users\BILSAM YAZILIM\Desktop\1\annebaba\annebaba\bin\Debug\net7.0\annebaba.dll
+C:\Users\BILSAM YAZILIM\Desktop\1\annebaba\annebaba\bin\Debug\net7.0\annebaba.pdb
+C:\Users\BILSAM YAZILIM\Desktop\1\annebaba\annebaba\obj\Debug\net7.0\annebaba.csproj.AssemblyReference.cache
+C:\Users\BILSAM YAZILIM\Desktop\1\annebaba\annebaba\obj\Debug\net7.0\annebaba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BILSAM YAZILIM\Desktop\1\annebaba\annebaba\obj\Debug\net7.0\annebaba.AssemblyInfoInputs.cache
+C:\Users\BILSAM YAZILIM\Desktop\1\annebaba\annebaba\obj\Debug\net7.0\annebaba.AssemblyInfo.cs
+C:\Users\BILSAM YAZILIM\Desktop\1\annebaba\annebaba\obj\Debug\net7.0\annebaba.csproj.CoreCompileInputs.cache
+C:\Users\BILSAM YAZILIM\Desktop\1\annebaba\annebaba\obj\Debug\net7.0\annebaba.dll
+C:\Users\BILSAM YAZILIM\Desktop\1\annebaba\annebaba\obj\Debug\net7.0\refint\annebaba.dll
+C:\Users\BILSAM YAZILIM\Desktop\1\annebaba\annebaba\obj\Debug\net7.0\annebaba.pdb
+C:\Users\BILSAM YAZILIM\Desktop\1\annebaba\annebaba\obj\Debug\net7.0\annebaba.genruntimeconfig.cache
+C:\Users\BILSAM YAZILIM\Desktop\1\annebaba\annebaba\obj\Debug\net7.0\ref\annebaba.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\annebaba\annebaba\bin\Debug\net7.0\annebaba.exe
+C:\Users\Abdul\OneDrive\Masaüstü\1\annebaba\annebaba\bin\Debug\net7.0\annebaba.deps.json
+C:\Users\Abdul\OneDrive\Masaüstü\1\annebaba\annebaba\bin\Debug\net7.0\annebaba.runtimeconfig.json
+C:\Users\Abdul\OneDrive\Masaüstü\1\annebaba\annebaba\bin\Debug\net7.0\annebaba.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\annebaba\annebaba\bin\Debug\net7.0\annebaba.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\1\annebaba\annebaba\obj\Debug\net7.0\annebaba.csproj.AssemblyReference.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\annebaba\annebaba\obj\Debug\net7.0\annebaba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\OneDrive\Masaüstü\1\annebaba\annebaba\obj\Debug\net7.0\annebaba.AssemblyInfoInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\annebaba\annebaba\obj\Debug\net7.0\annebaba.AssemblyInfo.cs
+C:\Users\Abdul\OneDrive\Masaüstü\1\annebaba\annebaba\obj\Debug\net7.0\annebaba.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\annebaba\annebaba\obj\Debug\net7.0\annebaba.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\annebaba\annebaba\obj\Debug\net7.0\refint\annebaba.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\annebaba\annebaba\obj\Debug\net7.0\annebaba.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\1\annebaba\annebaba\obj\Debug\net7.0\annebaba.genruntimeconfig.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\annebaba\annebaba\obj\Debug\net7.0\ref\annebaba.dll
