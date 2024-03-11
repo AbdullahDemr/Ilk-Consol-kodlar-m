@@ -1,0 +1,14 @@
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\fonsıyon pisagor.exe
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\fonsıyon pisagor.deps.json
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\fonsıyon pisagor.runtimeconfig.json
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\fonsıyon pisagor.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\fonsıyon pisagor.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\fonsıyon pisagor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\fonsıyon pisagor.AssemblyInfoInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\fonsıyon pisagor.AssemblyInfo.cs
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\fonsıyon pisagor.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\fonsıyon pisagor.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\fonsıyon pisagor.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\fonsıyon pisagor.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\fonsıyon pisagor.genruntimeconfig.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\fonsıyon pisagor.dll
