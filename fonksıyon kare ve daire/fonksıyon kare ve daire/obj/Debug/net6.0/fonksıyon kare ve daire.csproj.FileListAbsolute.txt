@@ -1,0 +1,15 @@
+C:\Users\Abdul\OneDrive\Masaüstü\1\fonksıyon kare ve daire\fonksıyon kare ve daire\bin\Debug\net6.0\fonksıyon kare ve daire.exe
+C:\Users\Abdul\OneDrive\Masaüstü\1\fonksıyon kare ve daire\fonksıyon kare ve daire\bin\Debug\net6.0\fonksıyon kare ve daire.deps.json
+C:\Users\Abdul\OneDrive\Masaüstü\1\fonksıyon kare ve daire\fonksıyon kare ve daire\bin\Debug\net6.0\fonksıyon kare ve daire.runtimeconfig.json
+C:\Users\Abdul\OneDrive\Masaüstü\1\fonksıyon kare ve daire\fonksıyon kare ve daire\bin\Debug\net6.0\fonksıyon kare ve daire.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\fonksıyon kare ve daire\fonksıyon kare ve daire\bin\Debug\net6.0\fonksıyon kare ve daire.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\1\fonksıyon kare ve daire\fonksıyon kare ve daire\obj\Debug\net6.0\fonksıyon kare ve daire.csproj.AssemblyReference.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\fonksıyon kare ve daire\fonksıyon kare ve daire\obj\Debug\net6.0\fonksıyon kare ve daire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\OneDrive\Masaüstü\1\fonksıyon kare ve daire\fonksıyon kare ve daire\obj\Debug\net6.0\fonksıyon kare ve daire.AssemblyInfoInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\fonksıyon kare ve daire\fonksıyon kare ve daire\obj\Debug\net6.0\fonksıyon kare ve daire.AssemblyInfo.cs
+C:\Users\Abdul\OneDrive\Masaüstü\1\fonksıyon kare ve daire\fonksıyon kare ve daire\obj\Debug\net6.0\fonksıyon kare ve daire.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\fonksıyon kare ve daire\fonksıyon kare ve daire\obj\Debug\net6.0\fonksıyon kare ve daire.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\fonksıyon kare ve daire\fonksıyon kare ve daire\obj\Debug\net6.0\refint\fonksıyon kare ve daire.dll
+C:\Users\Abdul\OneDrive\Masaüstü\1\fonksıyon kare ve daire\fonksıyon kare ve daire\obj\Debug\net6.0\fonksıyon kare ve daire.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\1\fonksıyon kare ve daire\fonksıyon kare ve daire\obj\Debug\net6.0\fonksıyon kare ve daire.genruntimeconfig.cache
+C:\Users\Abdul\OneDrive\Masaüstü\1\fonksıyon kare ve daire\fonksıyon kare ve daire\obj\Debug\net6.0\ref\fonksıyon kare ve daire.dll
